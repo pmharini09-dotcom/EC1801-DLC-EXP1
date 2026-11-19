@@ -1,4 +1,4 @@
-# EC1801-DLC-EXP1
+<img width="1912" height="1078" alt="Screenshot 2026-11-19 105429" src="https://github.com/user-attachments/assets/16730809-a9ba-40c6-93a0-edfe69509376" /># EC1801-DLC-EXP1
 ### EXPERIMENT 1 
 ### MINIMIZATION AND IMPLEMENTATION OF BOOLEAN FUNCTION
 ## Aim
@@ -20,6 +20,7 @@ exp1_boolean_min_tb.v	Verilog testbench
 exp1_boolean_min.vcd	VCD waveform dump generated during simulation
 
 ## Verilog Program
+
 
 
 
@@ -85,6 +86,7 @@ and successfully implemented using Verilog HDL.
 
 ## OUTPUT
 
+<img width="1912" height="1078" alt="Screenshot 2026-11-19 105429" src="https://github.com/user-attachments/assets/b8d1c7ee-73e9-4223-a186-b215662ce448" />
 
 
 The design was compiled and simulated using Synopsys VCS, and the functionality was verified using DVE waveform analysis.
